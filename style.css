@@ -2,13 +2,16 @@ table {
     width: 800px;
     height: 600px;
     text-align: center;
-    border: 2px solid black;
+}
+img {
+    width: 100px;
+    height: 100px;
 }
 
 .lignes {
-    background-color: aquamarine;
+    background-color: blue;
 }
 
 .colonnes {
-    border: 2px dashed violet;
+    border: 2px dashed red;
 }
